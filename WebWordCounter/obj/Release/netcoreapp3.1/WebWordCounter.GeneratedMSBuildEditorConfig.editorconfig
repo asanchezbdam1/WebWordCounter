@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = WebWordCounter
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\crist\OneDrive\Escritorio\ProyectoPSP\WebWordCounter\
+=======
+build_property.ProjectDir = C:\Users\andre\Source\Repos\WebWordCounter\WebWordCounter\
+>>>>>>> master
