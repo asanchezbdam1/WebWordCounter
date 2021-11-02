@@ -10,6 +10,7 @@ namespace WebWordCounter
 {
     public class Program
     {
+        //Indica que el programa se ejecuta de manera asíncrona
         public static async Task Main()
         {
             string url = null;
@@ -30,7 +31,7 @@ namespace WebWordCounter
 
                 Console.WriteLine("Escribe la palabra:");
                 w = Console.ReadLine();
-
+                //Obtiene el resultado de ejecutar el método CreateWordArray()
                 string[] words = task1.Result;
 
                 await Task.Run(() => {
