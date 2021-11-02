@@ -1,0 +1,14 @@
+G:\DAM\PSP\WebWordCounter\WebWordCounter\bin\Debug\netcoreapp3.1\WebWordCounter.exe
+G:\DAM\PSP\WebWordCounter\WebWordCounter\bin\Debug\netcoreapp3.1\WebWordCounter.deps.json
+G:\DAM\PSP\WebWordCounter\WebWordCounter\bin\Debug\netcoreapp3.1\WebWordCounter.runtimeconfig.json
+G:\DAM\PSP\WebWordCounter\WebWordCounter\bin\Debug\netcoreapp3.1\WebWordCounter.runtimeconfig.dev.json
+G:\DAM\PSP\WebWordCounter\WebWordCounter\bin\Debug\netcoreapp3.1\WebWordCounter.dll
+G:\DAM\PSP\WebWordCounter\WebWordCounter\bin\Debug\netcoreapp3.1\WebWordCounter.pdb
+G:\DAM\PSP\WebWordCounter\WebWordCounter\obj\Debug\netcoreapp3.1\WebWordCounter.csproj.AssemblyReference.cache
+G:\DAM\PSP\WebWordCounter\WebWordCounter\obj\Debug\netcoreapp3.1\WebWordCounter.GeneratedMSBuildEditorConfig.editorconfig
+G:\DAM\PSP\WebWordCounter\WebWordCounter\obj\Debug\netcoreapp3.1\WebWordCounter.AssemblyInfoInputs.cache
+G:\DAM\PSP\WebWordCounter\WebWordCounter\obj\Debug\netcoreapp3.1\WebWordCounter.AssemblyInfo.cs
+G:\DAM\PSP\WebWordCounter\WebWordCounter\obj\Debug\netcoreapp3.1\WebWordCounter.csproj.CoreCompileInputs.cache
+G:\DAM\PSP\WebWordCounter\WebWordCounter\obj\Debug\netcoreapp3.1\WebWordCounter.dll
+G:\DAM\PSP\WebWordCounter\WebWordCounter\obj\Debug\netcoreapp3.1\WebWordCounter.pdb
+G:\DAM\PSP\WebWordCounter\WebWordCounter\obj\Debug\netcoreapp3.1\WebWordCounter.genruntimeconfig.cache
